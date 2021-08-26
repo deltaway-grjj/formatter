@@ -19,4 +19,4 @@ p
 w
 q
 EOF
-sudo mkfs.ext4 /dev/sda3
+sudo mkfs.ext4 -F /dev/sda3
