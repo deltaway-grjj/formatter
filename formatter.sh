@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo umount /dev/sda1
 sudo umount /dev/sda2
 sudo e2fsck -f /dev/sda2
