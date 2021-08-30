@@ -1,3 +1,4 @@
+#!/bin/bash
 DIR="/home/pi/deltaway/MT300"
 sudo mount --bind $DIR/Config $DIR/Config
 sudo mount --bind $DIR/F1/Backup $DIR/F1/Backup
